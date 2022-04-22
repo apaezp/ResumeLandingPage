@@ -186,6 +186,8 @@ section {
 .about .content p {
   margin-bottom: 0;
   text-align: justify;
+  margin-left: 2rem;
+  margin-right: 2rem;
   
 }
 .about .content .count-box {
